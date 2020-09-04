@@ -17,7 +17,7 @@ a:hover {
 }
 
 a ion-icon {
-  font-size: 22px; color: #ffffff;
+  font-size: 22px; color: #1a1a1a;
 }
 
 section{
@@ -244,6 +244,10 @@ section{
 
 #footer .list-inline .list-inline-item {
   padding: 10px 15px;
+}
+
+#footer ion-icon {
+  color #ffffff
 }
 
 
